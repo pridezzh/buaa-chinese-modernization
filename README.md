@@ -6,7 +6,7 @@
 
 ## 在线使用
 
-打开 [题库搜索页面](https://pridezzh.github.io/chinese-modernization/) 即可直接检索。
+打开 [题库搜索页面](https://pridezzh.github.io/buaa-chinese-modernization/) 即可直接检索。
 
 页面为单文件离线网页，不依赖后端和第三方库。下载 `index.html` 后双击也可以使用。
 
